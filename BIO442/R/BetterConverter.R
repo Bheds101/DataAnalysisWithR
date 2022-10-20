@@ -6,6 +6,8 @@
 #' @keywords latitude, longitude 
 
 
+# I am making an edit 
+
 BetterConverter <- function(input, type){
   require(parzer)
   if (type == 'lat'){
